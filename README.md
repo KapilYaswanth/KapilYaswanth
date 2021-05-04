@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilyaswanth&" alt="rahulsiddarth" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilyaswanth" alt="rahulsiddarth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilyaswanth" alt="kapilyaswanth" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsiddarth&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsiddarth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilyaswanth&label=Profile%20views&color=0e75b6&style=flat" alt="kapilyaswanth" /> </p>
