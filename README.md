@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Kapil Yaswanth !</h1>
+<h1 align="center">Hi 👋, I'm Kapil Yaswanth</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulsiddarth/rahulsiddarth/main/greetings.gif" alt="A passionate programmer!" width=300>
 </p>
